@@ -1,5 +1,5 @@
 package com.interview.crud.model;
 
-public class Employee {
+public class Product {
 
 }
